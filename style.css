@@ -1,0 +1,38 @@
+*{
+    font-family: Monserrat;
+}
+
+/*Services section */
+#services_offer{
+   margin-top: 30px; 
+
+}
+.services-cols{
+    padding: 20px;
+    text-align: center;
+}
+.services-content{
+    margin-top:30px ;
+}
+
+/*Gallery section */
+#gallery{
+    margin-top: 100px;
+}
+
+.img-div{
+    text-align: center;
+}
+.img-container{
+    text-align: center;
+}
+/* footer */
+footer{
+    margin-top: 50px;
+    background-color: black;
+    color: #ffffff;
+}
+.footer-link{
+    color:#ffffff;
+    
+}
